@@ -24,7 +24,7 @@ def wishMe():
     else:
         speak("Good Evening")
 
-    speak("I am Divid assistant and I am your personal assistant. How can I help you?")
+    speak("I am Divid assistant and I am your personal assistant. How can I help you? speak anomaly")
 
 def takeCommand():
     #it take microphones input from user and return string output
